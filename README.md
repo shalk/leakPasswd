@@ -1,6 +1,8 @@
 # leakPasswd
 
-> 这是一款用来查询密码泄露的 **`Python`** 模块
+这是一款用来查询密码泄露的 **`Python`** 模块
+
+**开源地址**：https://github.com/lauixData/leakPasswd
 
 ## 安装
 ### 安装方式一
@@ -44,10 +46,16 @@ leakPasswd.findAccount('test@qq.com')
 
 ## 查询测试
 
-![enter image description here](http://ww1.sinaimg.cn/large/005Bpb8ily1feqtmlem15g30hr0caagh.gif)
+![Alt text](http://ww1.sinaimg.cn/large/005Bpb8ily1fequ9qc26hg30hr0caagh.gif)
+
+## 查看是否泄露
+可以看出来优酷密码泄露了，需要及时修改密码 
+![Alt text](http://ww1.sinaimg.cn/large/005Bpb8ily1fequa135sbj31ba108tg4.jpg)
+
 
 ## 联系
 
 > Author ：天才小三斤
 >
 > E-mail ：lauixData@gmail.com
+
