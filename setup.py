@@ -11,4 +11,5 @@ setup(
     author="lauix",
     author_email="lauixData@gmail.com",
     url="https://github.com/lauixData/leakPasswd",
+    install_requires=["requests>=2.13.0"],
 )
